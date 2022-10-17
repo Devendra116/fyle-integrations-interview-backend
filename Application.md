@@ -10,8 +10,8 @@
 ## User Actions:
 - A student can create and edit a draft assignment
 - A student can list all his created assignments
-- A teacher can list all assignments submitted to him
-- A teacher can grade an assignment submitted to him
+- A teacher can list all assignments submitted to him/her
+- A teacher can grade an assignment submitted to him/her
 
 ## Available APIs
 ### Auth
